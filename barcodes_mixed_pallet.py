@@ -4,7 +4,7 @@ import datetime
 def main():
     
     #MIXED PALLET
-    template_xml_file_name = "BINDAREE_DESADV_MIXED_20180405130626.xml"
+    template_xml_file_name = "<insert xml file name>"
     doc = ET.parse(template_xml_file_name)
 
     root = doc.getroot()
