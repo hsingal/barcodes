@@ -4,7 +4,7 @@ import datetime
 def main():
     
     #One Product Pallet
-    template_xml_file_name = "BINDAREE_DESADV_20180328232610.xml"
+    template_xml_file_name = "<insert xml file name>"
     
     doc = ET.parse(template_xml_file_name)
 
